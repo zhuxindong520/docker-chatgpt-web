@@ -1,6 +1,5 @@
-from zhuxindong/ninja:latest
+from kerwin1202/chatgpt-web
 
 
-EXPOSE 7999
+EXPOSE 3002
  
-CMD ["serve", "run"]
